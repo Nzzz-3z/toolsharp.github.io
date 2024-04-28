@@ -1,0 +1,179 @@
+.main{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.WT {
+    text-align: center;
+    text-shadow: 15px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 61, 20);
+    background-attachment: fixed;
+    background-color: aliceblue;
+}
+.FT{
+    text-align: center;
+    text-shadow: none;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.l1{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.l2 {
+    text-align:center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.l3{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.l4{
+       text-align: center;
+       font-size: 20px;
+       font-family: Arial, Helvetica, sans-serif;
+       margin-top: 10px;
+}
+.btndiv1{
+    align-items: center;
+    text-align: center;
+}
+.DB1{
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    background-color: green;
+    color: aliceblue;
+    border-radius: 15px;  
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.DB1:hover{
+    width: auto;
+    height: auto;
+    font-size: 45px;
+    background-color: rgb(78, 7, 54);
+    color: wheat;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.GGB{
+    margin-left: 30px;
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 15px;
+}
+.GGB:hover{
+ width: auto;
+ height:auto;
+ font-size: 45px;
+ background-color: black;
+ color: wheat;
+ cursor: pointer;
+}
+.DZB{
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.DZB:hover{
+    width: auto;
+    height: auto;
+    font-size: 45px;
+    color: wheat;
+    background-color: darkslategray;
+    cursor: pointer;
+}
+.HIV{
+    margin-left: 30px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+}
+.HIV:hover{
+    font-size: 45px;
+    background-color: darkolivegreen;
+    color: wheat;
+    cursor: pointer;
+}
+.img1{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+width: 500px;
+}
+.img1:hover{
+    width: 600px;
+    cursor: pointer;
+}
+.th1{ 
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+.pdiv1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 500px;
+    text-align: center;
+}
+.srq{
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+}
+.table1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 855px;
+}
+.table2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 563px;
+}
+.table3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 430px;
+}
+.end{
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+}
+.body2{
+    background-color: bisque;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Clink{
+    color: black;
+    background-color: rgb(172, 62, 172);
+}
